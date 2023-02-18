@@ -8,4 +8,4 @@ hello berlin!  hello git!
 hello berlin!  hello git!
 hello berlin!  hello git!
 hello berlin!  hello git!
-hello berlin!  hello git!
+hello berlin!  hello git! hot-fix test
