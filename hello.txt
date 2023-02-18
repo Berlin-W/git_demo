@@ -7,5 +7,5 @@ hello berlin!  hello git!
 hello berlin!  hello git!
 hello berlin!  hello git!
 hello berlin!  hello git!
-hello berlin!  hello git!
+hello berlin!  hello git! master test
 hello berlin!  hello git!
